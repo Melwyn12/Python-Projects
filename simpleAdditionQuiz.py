@@ -1,5 +1,6 @@
-# addition game quiz
-# prompts users to answer simple addition problems using random numbers from 0-9
+# Math game quiz
+# prompts users to answer simple addition problems using random numbers from 0-100
+# added subtraction, multiplication, and division
 
 import random
 def calculateAverage():
